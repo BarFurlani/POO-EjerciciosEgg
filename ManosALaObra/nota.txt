@@ -1,0 +1,1 @@
+Explicación de POO, siguiendo los ejercicios de manos a la obra dados en la guía de POO-Egg
